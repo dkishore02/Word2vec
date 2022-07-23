@@ -1,9 +1,11 @@
 # Word2vec
 Word2vec Vectorizer and Cosine similarity pretrained model
 
-Import Libraries
+Import Libraries:
 
-scipy,sent2vec
+* scipy
+
+* sent2vec
 
 Modules:
 
