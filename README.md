@@ -16,3 +16,4 @@ Pretrained model ( Bert distilbert-base-multilingual-cased)
 Remove the stopwords and vectorize the sentences
 
 Finding the distance using Cosine-similarity
+
